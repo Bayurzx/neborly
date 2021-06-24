@@ -1,7 +1,10 @@
 {
-  "IsEncrypted": true,
+  "IsEncrypted": false,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ=="
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=neigbourly;AccountKey=aEMHIFvy/B8sV/dkl7m7LQRFJuaQgBkgBX22KgInQTxngkqiBjtkwHfKVnVwyBQqndWRHDN5LcMuc9KCNQyUXw==;EndpointSuffix=core.windows.net",
+    "DbConnectionString": "mongodb://neighbourly-cosmos:aIl3ZNbp4vli7eJBj2ySBxVNNe2Mw1jsHYJz4iDJCC5DXAbJLyksYPtIKPzVWQoV2O2aQr6e1kxHBPr8oEXywA==@neighbourly-cosmos.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@neighbourly-cosmos@"
   },
   "ConnectionStrings": {},
 
