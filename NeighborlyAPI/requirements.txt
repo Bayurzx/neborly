@@ -1,14 +1,5 @@
 azure-functions
 pymongo
-bson
-flask
-requests
-flask-bootstrap
-flask-restplus
-flask-swagger-ui
-werkzeug
-azure-functions
 azure-cosmos
-pymongo
 azure-cli-core
-feedgen
+
