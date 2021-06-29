@@ -6,7 +6,6 @@ Students should be able to create a MongoDB database, two collections, and impor
 
 To pass this criteria, you can provide a screenshot from the Azure portal showing the database & collections, as well as confirmation that the two pieces of sample data for advertisements (5 documents) and posts (4 documents) were imported correctly.
     ![image](https://raw.githubusercontent.com/Bayurzx/neborly/master/screenhots/1_1%20advert%20import-cosmos.jpg)
---
     ![image](https://raw.githubusercontent.com/Bayurzx/neborly/master/screenhots/1_1%20posts%20import-cosmos.jpg)
 
 # 1_2
