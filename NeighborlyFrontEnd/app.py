@@ -1,8 +1,9 @@
 import logging.config
-import os
+import os # no need to import this 😓
 from flask import Flask, Blueprint, request, jsonify, render_template, redirect, url_for
 from flask_bootstrap import Bootstrap
-from . import settings
+from . import settings # use this when you are not deploying
+# import settings # use this when deploying
 import requests
 import json
 from feedgen.feed import FeedGenerator
