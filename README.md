@@ -52,7 +52,7 @@ The student should be able create an Event Hubs namespace and an event hub with 
 # 2_3
 
 The student should be able to use the endpoint connection string from the event hub to the eventHubTrigger function in the function.json file.
-    ![image](https://raw.githubusercontent.com/Bayurzx/myproject/master/screenhots\2_3_event_hub_integration.jpg)    
+    ![image](https://raw.githubusercontent.com/Bayurzx/neborly/master/screenhots/2_3_event_hub_integration.jpg)    
     
 
 # 3_1
