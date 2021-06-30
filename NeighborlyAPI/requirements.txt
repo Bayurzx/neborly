@@ -1,5 +1,4 @@
 azure-functions
 pymongo
-azure-cosmos
-azure-cli-core
+
 
